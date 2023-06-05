@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159685951682",
+    "project_id": "rassurant-48080",
+    "storage_bucket": "rassurant-48080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159685951682:android:bd703c4f0d8c5d2942bb5b",
+        "android_client_info": {
+          "package_name": "com.example.rassurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159685951682-thmlpt80gv7cttj22tdg3q3aaoh06f8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5w-X8hBv1Us9NOuAinSMJ1tI9Pqjwcwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159685951682-thmlpt80gv7cttj22tdg3q3aaoh06f8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
